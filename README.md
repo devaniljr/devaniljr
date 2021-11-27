@@ -1,4 +1,12 @@
-### Hi there 👋
+### Olá, sou o Devanil 👋😄
+---
+
+Estou em processo de migração de carreira da Comunicação para a área de Tecnologia. O que motiva essa mudança é a oportunidade de ser recompensado pelo meu aprendizado. Me considero um eterno aprendiz e vejo na área de TI um caminho para aplicar essa minha facilidade em ser autodidata. No momento estou fazendo um curso de Desenvolvimento Full Stack. Estou praticando HTML, CSS e JavaScript para montar os primeiros projetos, mas estou aberto às oportunidades em outras tecnologias.
+
+Busco uma oportunidade em que possa me desenvolver profissionalmente, com progressão de carreira de acordo com minha capacidade e entrega de resultados.
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/devaniljr/)
+&nbsp;
 
 <!--
 **devaniljr/devaniljr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
