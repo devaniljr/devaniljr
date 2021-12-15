@@ -1,7 +1,7 @@
 ### Olá, sou o Devanil 👋😄
 ---
 
-Estou em processo de migração de carreira da Comunicação para a área de Tecnologia. Me considero um eterno aprendiz e vejo na área de TI um caminho para aplicar essa minha facilidade em ser autodidata. No momento estou fazendo um curso de Desenvolvimento Full Stack. Estou praticando HTML, CSS e JavaScript para montar os primeiros projetos, mas estou aberto às oportunidades em outras tecnologias.
+Estou em processo de migração de carreira da Comunicação para a área de Tecnologia. Me considero um eterno aprendiz e vejo na área de TI um caminho para aplicar essa minha facilidade em ser autodidata. No momento estou fazendo um curso de Desenvolvimento Full Stack. Estou praticando HTML, CSS e JavaScript e montando os primeiros projetos, mas estou aberto às oportunidades em outras tecnologias.
 
 Busco uma oportunidade em que possa me desenvolver profissionalmente, com progressão de carreira de acordo com minha capacidade e entrega de resultados.
 
