@@ -5,7 +5,7 @@ Estou em processo de migração de carreira da Comunicação para a área de Tec
 
 Busco uma oportunidade em que possa me desenvolver profissionalmente, com progressão de carreira de acordo com minha capacidade e entrega de resultados.
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/devaniljr/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/devaniljr/) [![HackerRank](https://hrcdn.net/community-frontend/assets/favicon-ddc852f75a.png) HackerRank](https://www.hackerrank.com/contatodevanil) 
 &nbsp;
 
 <!--
