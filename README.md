@@ -1,9 +1,9 @@
 ### Olá, sou o Devanil 👋😄
 ---
 
-Estou em processo de migração de carreira da Comunicação para a área de Tecnologia. Me considero um eterno aprendiz e vejo na área de TI um caminho para aplicar essa minha facilidade em ser autodidata. No momento estou fazendo um curso de Desenvolvimento Full Stack. Estou praticando HTML, CSS e JavaScript e montando os primeiros projetos, mas estou aberto às oportunidades em outras tecnologias.
+Estou em processo de migração de carreira da Comunicação para a área de Tecnologia. No entanto, tenho familiaridade com desenvolvimento desde 2008, quando fui campeão estadual das Olimpíadas do Conhecimento do SENAI (desenvolvendo em Visual Basic). Depois cursei Astronomia na UFRJ (sem finalizar) onde aprendi Python. Mas desde novembro de 2021 decidi estudar desenvolvimento web e transformar em uma carreira. Mesmo não sendo desenvolvedor, sempre usei meus conhecimentos quando trabalhava com Comunicação (ao ponto de liderar o desenvolvimento de um site governamental). 
 
-Busco uma oportunidade em que possa me desenvolver profissionalmente, com progressão de carreira de acordo com minha capacidade e entrega de resultados.
+Tenho feito progresso rápido e meu objetivo é conseguir um emprego na área e usar minha experiência em Comunicação para ensinar gratuitamente outras pessoas. Tenho um canal no YouTube desde 2014 chamado Alimente o Cérebro, onde ensino o que eu gosto e aprendo, e espero poder ajudar em breve àqueles que veem na programação uma oportunidade para alcançar seu verdadeiro potencial.
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/devaniljr/) [![HackerRank](https://i.imgur.com/IsmtGsJ.png) HackerRank](https://www.hackerrank.com/contatodevanil) 
 &nbsp;
