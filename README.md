@@ -1,11 +1,9 @@
 ### Olá, sou o Devanil 👋😄
 ---
 
-Sou Desenvolvedor de Software em início de carreira. Passei por um processo de migração de carreira, tendo formação e experiência com a área de comunicação (jornalismo e marketing).
+Sou Desenvolvedor de Software. Atualmente trabalho com a stack JavaScript. Tenho conhecimentos sólidos em HTML, CSS, JavaScript, BootStrap, Tailwind e SASS. Conhecimentos intermediários em React e Node.JS. Já trabalhei com Angular, Next.JS e Vue e ASP.NET e sei o básico.
 
-Me vejo como um profissional que busca entregar a solução para um problema, por isso estou estudando para ser fullstack (ciente do caminho que terei que percorrer). Gosto de imaginar que eu ou meu cliente/empregador terá uma ideia/problema eu poderei entregá-la funcionando na web ou em mobile, frontend e backend.
-
-Além disso, sempre gostei de comunicar aquilo que gosto, portanto produzo conteúdo sobre programação e desenvolvimento em quase todas as redes sociais (http://devanil.dev). Também amo filosofia, e isso demonstro melhor no meu projeto chamado Alimente o Cérebro.
+Estou envolvido em projetos de desenvolvimento de sistemas para instituições farmacêuticas e de saúde, além de um aplicativo de cross-platform de exercícios físicos. Também tenho meus projetos pessoais no Alimente o Cérebro (alimenteocerebro.com).
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/devaniljr/) [![HackerRank](https://i.imgur.com/IsmtGsJ.png) HackerRank](https://www.hackerrank.com/contatodevanil) 
 &nbsp;
