@@ -1,7 +1,7 @@
 ### Olá, sou o Devanil 👋😄
 ---
 
-Sou Desenvolvedor de Software. Atualmente trabalho com a stack JavaScript. Tenho conhecimentos sólidos em HTML, CSS, JavaScript, BootStrap, Tailwind e SASS. Conhecimentos intermediários em React e Node.JS. Já trabalhei com Angular, Next.JS e Vue e ASP.NET e sei o básico.
+Sou Desenvolvedor de Software. Atualmente trabalho com a stack JavaScript. Tenho conhecimentos sólidos em HTML, CSS, JavaScript, BootStrap, Tailwind e SASS. Conhecimentos intermediários em React e Node.JS. Já trabalhei com Angular, Next.JS e Vue e ASP.NET.
 
 Estou envolvido em projetos de desenvolvimento de sistemas para instituições farmacêuticas e de saúde, além de um aplicativo de cross-platform de exercícios físicos. Também tenho meus projetos pessoais no Alimente o Cérebro (alimenteocerebro.com).
 
