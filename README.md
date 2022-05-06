@@ -1,11 +1,9 @@
 ### Olá, sou o Devanil 👋😄
 ---
 
-Sou Desenvolvedor de Software. Atualmente trabalho com a stack JavaScript. Tenho conhecimentos sólidos em HTML, CSS, JavaScript, BootStrap, Tailwind e SASS. Conhecimentos intermediários em React e Node.JS. Já trabalhei com Angular, Next.JS e Vue e ASP.NET.
+Sou Desenvolvedor de Software. Atualmente trabalho com a stack JavaScript. Também tenho meus projetos pessoais no Alimente o Cérebro (alimenteocerebro.com).
 
-Estou envolvido em projetos de desenvolvimento de sistemas para instituições farmacêuticas e de saúde, além de um aplicativo de cross-platform de exercícios físicos. Também tenho meus projetos pessoais no Alimente o Cérebro (alimenteocerebro.com).
-
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/devaniljr/) [![HackerRank](https://i.imgur.com/IsmtGsJ.png) HackerRank](https://www.hackerrank.com/contatodevanil) 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/devaniljr/)
 &nbsp;
 
 <!--
