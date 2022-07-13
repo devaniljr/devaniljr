@@ -3,6 +3,8 @@
 
 Sou Desenvolvedor de Software. Atualmente trabalho com a stack JavaScript. Também tenho meus projetos pessoais no Alimente o Cérebro (alimenteocerebro.com). Atualmente estou atualizando os README dos projetos. Volte em breve para um GitHub completo.
 
+Meu blog [devanil.dev](https://devanil.dev)
+
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/devaniljr/)
 &nbsp;
 
