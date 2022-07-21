@@ -1,7 +1,7 @@
 ### Olá, sou o Devanil 👋😄
 ---
 
-Sou Desenvolvedor de Software. Atualmente trabalho com a stack JavaScript. Também tenho meus projetos pessoais no Alimente o Cérebro (alimenteocerebro.com). Atualmente estou atualizando os README dos projetos. Volte em breve para um GitHub completo.
+Sou Desenvolvedor de Software. Atualmente trabalho com a stack JavaScript. Também tenho meus projetos pessoais no Alimente o Cérebro (Meu blog [youtube.com/AlimenteOCerebro](https://youtube.com/AlimenteOCerebro)). Atualmente estou atualizando os README dos projetos. Volte em breve para um GitHub completo.
 
 Meu blog [devanil.dev](https://devanil.dev)
 
