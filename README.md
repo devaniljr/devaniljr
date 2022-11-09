@@ -1,7 +1,7 @@
 ### Olá, sou o Devanil 👋😄
 ---
 
-Sou Desenvolvedor de Software. Atualmente trabalho com a stack JavaScript. Também tenho meus projetos pessoais no Alimente o Cérebro ([youtube.com/AlimenteOCerebro](https://youtube.com/AlimenteOCerebro)). Atualmente estou atualizando os README dos projetos. Volte em breve para um GitHub completo.
+Olá :) Me chamo Devanil e sou desenvolvedor de software desde 2021 e criador de conteúdo. Atualmente trabalho com Ruby on Rails e React.
 
 Meu blog [devanil.dev](https://devanil.dev)
 
