@@ -1,8 +1,6 @@
 ### Hi, I'm Devanil 👋😄
 ---
 
-Hello :) My name is Devanil and I've been a software developer since 2021 and I love to create content too. I currently work with Ruby on Rails and React/Next.js.
-
 Meu blog [devanil.dev](https://devanil.dev)
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/devaniljr/)
