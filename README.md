@@ -1,6 +1,6 @@
 ### Hi, I'm Devanil 👋😄
 
-I'm a software developer passionate about bring ideas to reality. I have a special interest in software architecture and in and in creating beautiful frontends with Hotwire and Stimulus. 
+I'm a software developer passionate about bring ideas to reality. I have a special interest in 🏗️ software architecture and in creating beautiful frontends with ⚡ Hotwire and Stimulus. 
 
 🔭 Some projects I'm working on:
 
