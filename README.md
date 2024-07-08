@@ -5,8 +5,6 @@ I'm a software developer passionate about bring ideas to reality. I have a speci
 🔭 Some projects I'm working on:
 
 - [Context Organizer](https://marketplace.visualstudio.com/items?itemName=Devanil.context-organizer): a VS Code extension built with Typescript to organize files of a project into contexts.
-- [Alimente o Cérebro](https://alimenteocerebro.com/): a brazilian education plataform enterily built with Ruby on Rails and Hotwire.
-- My [blog](https://devanil.dev/en)
 
 📫 How to reach me
 
