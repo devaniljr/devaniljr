@@ -1,10 +1,10 @@
 ### Hi, I'm Devanil 👋😄
 
-I'm a software developer passionate about bring ideas to reality. I have a special interest in 🏗️ software architecture and in creating beautiful frontends with ⚡ Hotwire and Stimulus. 
+I like to see myself as a software developer who combines technical skills with a product-focused mindset. I am deeply committed to maintaining well-structured code, with a particular passion for OOP and architecture. I actively develop my communication skills to effectively bridge business objectives with user value. I thrive in methodologies that promote autonomy and asynchronous communication.
 
-🔭 Some projects I'm working on:
+I specialize in Ruby on Rails for backend solutions and Hotwire and React for frontend development, but I am continually expanding my knowledge in various other technologies as well.
 
-- [Context Organizer](https://marketplace.visualstudio.com/items?itemName=Devanil.context-organizer): a VS Code extension built with Typescript to organize files of a project into contexts.
+🔭 My blog: [devanil.dev](https://devanil.dev)
 
 📫 How to reach me
 
