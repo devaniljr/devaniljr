@@ -8,7 +8,7 @@ I specialize in Ruby on Rails for backend solutions and Hotwire and React for fr
 
 📫 How to reach me
 
-You can find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/devaniljr/)
+You can find me on [LinkedIn](https://www.linkedin.com/in/devaniljr/)
 
 
 <!--
