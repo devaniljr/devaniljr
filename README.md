@@ -4,8 +4,6 @@ I like to see myself as a software developer who combines technical skills with 
 
 I specialize in Ruby on Rails for backend solutions and Hotwire and React for frontend development, but I am continually expanding my knowledge in various other technologies as well.
 
-🔭 My blog: [devanil.dev](https://devanil.dev)
-
 📫 How to reach me
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/devaniljr/)
