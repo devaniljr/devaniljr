@@ -1,8 +1,6 @@
 ### Hi, I'm Devanil 👋😄
 
-I like to see myself as a software developer who combines technical skills with a product-focused mindset. I am deeply committed to maintaining well-structured code, with a particular passion for OOP and architecture. I actively develop my communication skills to effectively bridge business objectives with user value. I thrive in methodologies that promote autonomy and asynchronous communication.
-
-I specialize in Ruby on Rails for backend solutions and Hotwire and React for frontend development, but I am continually expanding my knowledge in various other technologies as well.
+I am a mid-level software developer specializing in Ruby on Rails. I am familiar with design and architectural patterns, have a working knowledge of deployment, databases, and frontend development (using React or Hotwire), and have participated in Artificial Intelligence projects.
 
 📫 How to reach me
 
